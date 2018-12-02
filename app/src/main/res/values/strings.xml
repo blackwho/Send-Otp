@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="tab1_contact_list">Contacts</string>
+    <string name="tab2_message_summary">Messages</string>
+    <string name="send_message_button">Send Message</string>
+    <string name="edit_text_hint">Otp verification message</string>
+    <string name="send_sms">Send</string>
+    <string name="sms_body">Hi! Your OTP is: </string>
+</resources>

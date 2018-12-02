@@ -1,0 +1,35 @@
+{
+  "clients" : [
+    {
+      "id" : "1",
+      "first" : "Vishal",
+      "last" : "Roy",
+      "phone" : "+918794954764"
+    },
+    {
+      "id" : "2",
+      "first" : "Raj",
+      "last" : "Sharma",
+      "phone" : "+917005949552"
+    },
+    {
+      "id" : "3",
+      "first" : "Rohit",
+      "last" : "Kapoor",
+      "phone" : "+919971792703"
+    },
+    {
+      "id" : "4",
+      "first" : "Will",
+      "last" : "Robinson",
+      "phone" : "+917005949552"
+    },
+    {
+      "id" : "5",
+      "first" : "Richard",
+      "last" : "Johnson",
+      "phone" : "+918794954764"
+    }
+
+  ]
+}
